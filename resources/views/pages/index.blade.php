@@ -166,71 +166,250 @@
         =========================== -->
 
 
+    <!-- ==========================
+    SKILL SECTION
+=========================== -->
+    <section class="skill-section py-5 pb-7" id="skill">
 
+        <!-- TITLE -->
+
+        <div class="swag text-center">
+            <div class="container">
+                <!-- Headline -->
+                <div class="row">
+                    <h1 class="arrow">
+                        My <span>Skills</span>
+                    </h1>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container">
+
+            <!-- SKILL LOGOS -->
+            <div class="row justify-content-center skill-row">
+
+                <!-- PHP -->
+                <div class="col-6 col-md-3 skill-spacing">
+                    <div class="skill-card">
+                        <div class="skill-logo-wrap">
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+                                class="skill-logo" alt="PHP">
+                        </div>
+                        <h5>PHP</h5>
+                    </div>
+                </div>
+
+                <!-- Laravel -->
+                <div class="col-6 col-md-3 skill-spacing">
+                    <div class="skill-card">
+                        <div class="skill-logo-wrap">
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
+                                class="skill-logo" alt="Laravel">
+                        </div>
+                        <h5>Laravel</h5>
+                    </div>
+                </div>
+
+                <!-- MySQL -->
+                <div class="col-6 col-md-3 skill-spacing">
+                    <div class="skill-card">
+                        <div class="skill-logo-wrap">
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+                                class="skill-logo" alt="MySQL">
+                        </div>
+                        <h5>MySQL</h5>
+                    </div>
+                </div>
+
+                <!-- JavaScript -->
+                <div class="col-6 col-md-3 skill-spacing">
+                    <div class="skill-card">
+                        <div class="skill-logo-wrap">
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                                class="skill-logo" alt="JavaScript">
+                        </div>
+                        <h5>JavaScript</h5>
+                    </div>
+                </div>
+
+                <!-- HTML -->
+                <div class="col-6 col-md-3 skill-spacing">
+                    <div class="skill-card">
+                        <div class="skill-logo-wrap">
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                                class="skill-logo" alt="HTML5">
+                        </div>
+                        <h5>HTML5</h5>
+                    </div>
+                </div>
+
+                <!-- CSS -->
+                <div class="col-6 col-md-3 skill-spacing">
+                    <div class="skill-card">
+                        <div class="skill-logo-wrap">
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                                class="skill-logo" alt="CSS3">
+                        </div>
+                        <h5>CSS3</h5>
+                    </div>
+                </div>
+
+                <!-- Git -->
+                <div class="col-6 col-md-3 skill-spacing">
+                    <div class="skill-card">
+                        <div class="skill-logo-wrap">
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+                                class="skill-logo" alt="Git">
+                        </div>
+                        <h5>Git</h5>
+                    </div>
+                </div>
+
+                <!-- jQuery -->
+                <div class="col-6 col-md-3 skill-spacing">
+                    <div class="skill-card">
+                        <div class="skill-logo-wrap">
+                            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"
+                                class="skill-logo" alt="jQuery">
+                        </div>
+                        <h5>jQuery</h5>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
 
     <!-- ==========================
         PORTFOLIO SECTION
     =========================== -->
-    <section class="swag text-center" id="portfolio">
+    <!-- ==========================
+    PORTFOLIO SECTION
+=========================== -->
+    <section class="portfolio-section py-5" id="portfolio">
+
         <div class="container">
-            <!-- Headline -->
-            <div class="row">
-                <h1 class="arrow">
-                    My <span>Projects</span>
-                </h1>
-            </div>
-        </div>
-    </section>
 
-    <div class="container">
-        <div class="row row-offset-0">
-
-
-            <div class="row">
-                <div id="blogSlider">
-                    <ul class="slides">
-                        <li>
-                            <!-- Blog Entry 1 -->
-                            <div class="col-md-6 wp4">
-                                <div class="effects clearfix portfolio-thumb">
-                                    <img src="img/portfolio/setiakawan.png" alt="Blog Item">
-                                </div>
-
-                                <br>
-                                <center>
-                                    <h2>Setiakawan Motor</h2>
-                                    <p>Company Profile Website for Setiakawan Group.</p>
-                                </center>
-                            </div>
-                            <div class="col-md-6 wp4">
-                                <div class="effects clearfix portfolio-thumb">
-                                    <img src="img/portfolio/dsl.png" alt="Blog Item">
-                                </div>
-
-                                <br>
-                                <center>
-                                    <h2>DSL Logistik</h2>
-                                    <p>Company Profile Website for PT Daniswara Solusi Logistik (DSL).</p>
-                                </center>
-                            </div>
-                            <div class="col-md-6 wp4">
-                                <div class="effects clearfix portfolio-thumb">
-                                    <img src="img/portfolio/light.png" alt="Blog Item">
-                                </div>
-
-                                <br>
-                                <center>
-                                    <h2>Light Trans Logistic</h2>
-                                    <p>Company Profile Website for Light Trans Logistic.</p>
-                                </center>
-                            </div>
-                        </li>
-
-                    </ul>
+            <!-- TITLE -->
+            <div class="swag text-center">
+                <div class="container">
+                    <!-- Headline -->
+                    <div class="row">
+                        <h1 class="arrow">
+                            My <span>Projects</span>
+                        </h1>
+                    </div>
                 </div>
             </div>
-        </div><!--/row-->
-    </div><!--/.container-->
+
+            <!-- PROJECT LIST -->
+            <div class="row g-5">
+
+                <!-- PROJECT 1 -->
+                <div class="col-md-6">
+                    <div class="project-card">
+
+                        <div class="project-image">
+                            <img src="img/portfolio/setiakawan.png" alt="Setiakawan Motor">
+                        </div>
+
+                        <div class="project-content">
+
+                            <h3>Setiakawan Motor</h3>
+
+                            <p>
+                                Corporate company profile website developed for
+                                Setiakawan Group with responsive modern layout,
+                                service information, and branding presentation.
+                            </p>
+
+                            <div class="project-tech">
+                                <span>PHP</span>
+                                <span>Bootstrap</span>
+                                <span>jQuery</span>
+                            </div>
+
+                            <a href="https://www.setiakawangroup.com" class="project-btn">
+                                View Project
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- PROJECT 2 -->
+                <div class="col-md-6">
+                    <div class="project-card">
+
+                        <div class="project-image">
+                            <img src="img/portfolio/dsl.png" alt="DSL Logistik">
+                        </div>
+
+                        <div class="project-content">
+
+                            <h3>DSL Logistik</h3>
+
+                            <p>
+                                Company profile and logistics information website
+                                for PT Daniswara Solusi Logistik featuring modern UI,
+                                responsive design, and service showcase.
+                            </p>
+
+                            <div class="project-tech">
+                                <span>Laravel</span>
+                                <span>Bootstrap</span>
+                                <span>MySQL</span>
+                            </div>
+
+                            <a href="https://dsllogistik.co.id" class="project-btn">
+                                View Project
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- PROJECT 3 -->
+                <div class="col-md-6">
+                    <div class="project-card">
+
+                        <div class="project-image">
+                            <img src="img/portfolio/light.png" alt="Light Trans Logistic">
+                        </div>
+
+                        <div class="project-content">
+
+                            <h3>Light Trans Logistic</h3>
+
+                            <p>
+                                Logistics company website focused on transportation
+                                services, shipment information, and professional
+                                digital company identity.
+                            </p>
+
+                            <div class="project-tech">
+                                <span>PHP</span>
+                                <span>JavaScript</span>
+                                <span>Bootstrap</span>
+                            </div>
+
+                            <a href="https://lighttranslogistic.com" class="project-btn">
+                                View Project
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
     <!-- ==========================
         PORTFOLIO SECTION END
         =========================== -->
@@ -306,7 +485,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <p>All Rights Reserved. &copy; <?php echo date('Y'); ?></a>
+                    <p>All Rights Reserved. &copy; 2026</a>
                 </div>
             </div>
         </div>
